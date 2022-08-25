@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "api_countries",
+            "request": "launch",
+            "type": "dart",
+            "program": "D:/Documentos/Curso Dart/api_countries/bin/api_countries.dart"
+        }
+    ]
+}
