@@ -1,2 +1,3 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+##API Countries
+
+Programa hecho en Dart donde recupero la data de una API que contiene informacion acerca de un país, en este caso Colombia
