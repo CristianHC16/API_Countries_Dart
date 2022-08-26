@@ -8,7 +8,7 @@
             "name": "api_countries",
             "request": "launch",
             "type": "dart",
-            "program": "D:/Documentos/Curso Dart/api_countries/bin/api_countries.dart"
+            "program": "D:/Documentos/Cursos/Curso Dart/api_countries/bin/api_countries.dart"
         }
     ]
 }
